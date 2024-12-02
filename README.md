@@ -75,8 +75,4 @@ Ensure that you have the following installed:
 ## Authors
 - @AngeloCoder27
 
-Based on the SCM-Starter Template from: @MetacrafterChris
-
----
-
-This should provide a clear and concise README for your project.
+Based on the SCM-Starter Template from: [@MetacrafterChris](https://github.com/MetacrafterChris)
